@@ -62,9 +62,9 @@ search                   : true
 search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia
 algolia:
-  application_id         : 2LSD4EUGEM # YOUR_APPLICATION_ID
-  index_name             : dev_PB # YOUR_INDEX_NAME
-  search_only_api_key    : f2cb25f6e915752fc73233113bca12c2 # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : #2LSD4EUGEM # YOUR_APPLICATION_ID
+  index_name             : #dev_PB # YOUR_INDEX_NAME
+  search_only_api_key    : #f2cb25f6e915752fc73233113bca12c2 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 
 # SEO Related
@@ -92,12 +92,12 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-87483128-2"
+    tracking_id          : #"UA-87483128-2"
 
 
 # Site Author
 author:
-  #name             : "Prateek Bhagdev"
+  #name             : "Anamika Shukla"
   avatar           : "/assets/asi.jpg"
   bio              : "Prioritisation is the key to success & beyond."
   location         : "Pune, India"
@@ -108,7 +108,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "anamika.santani"
   foursquare       :
   github           :
   gitlab           :
@@ -116,14 +116,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "prateekbhagdev"
-  medium           : "https://medium.com/@prateekbhagdev"
+  linkedin         : "anamika-shukla-06936624"
+  medium           : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "prateekbhagdev"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
