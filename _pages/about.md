@@ -10,6 +10,6 @@ I work in the fields of Program & Product Management, Technology, HCI & Design. 
 
 I help running business units with emphasis on products, design & technology. I possess keen interest for User Experience, Artificial Intelligence, mobility tech & ERP tech. My key skills include program management & strategy, roadmap definition, product management, prototyping & testing, research & analysis, nurture & commercialize products & solutions for different platforms such as AI interfaces, mobile devices & desktops, SAP etc.
 
-I love watching movies profoundly :film:
+I love watching movies profoundly :fa-video:
 
 Bragging rights: Mother to 2 super cute boys. Netherlands fanatic. Crazy Icecream lover. And I’m a pretty good cook :smile:
