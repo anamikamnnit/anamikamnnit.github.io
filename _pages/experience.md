@@ -1,6 +1,6 @@
 ---
-permalink: /resume/
-title: "Resume"
+permalink: /experience/
+title: "Experience"
 author_profile: true
 classes: wide
 ---
