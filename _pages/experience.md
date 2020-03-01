@@ -14,25 +14,25 @@ Bachelor of Engineering (Information Technology) from Motilal Nehru National Ins
 2000 - 2004;
 
 <h3>Work Experience</h3>
-Program Manager at Vodafone Technology Centre (VSSI) 
+Program Manager at Vodafone Technology Centre (VSSI)  
 November 2018 to current, Program & Product Management, User Experience & SAP; Pune – India
 
-Lead SAP Consultant at Vodafone Technology Centre (VSSI) 
+Lead SAP Consultant at Vodafone Technology Centre (VSSI)  
 May 2014 to October 2018, Product Management, SAP Sales & Distribution; Pune – India 
 
-Senior SAP Consultant at Tech Mahindra 
+Senior SAP Consultant at Tech Mahindra  
 January 2010 to April 2013, Project Management, SAP Sales & Distribution 
 
-SAP Consultant at Philips 
+SAP Consultant at Philips  
 April 2007 to April 2013, Consultant, SAP Sales & Distribution; Eindhoven – Netherlands
 
-SAP SD Consultant at Uniliver 
+SAP SD Consultant at Uniliver  
 February 2006 to April 2007, Consultant, SAP Sales & Distribution 
 
-SAP ABAP Consultant at Aquatec Water Treatment, Inc. 
+SAP ABAP Consultant at Aquatec Water Treatment, Inc.  
 May 2005 to February 2006, Consultant, SAP ABAP
 
-SAP ABAP Consultant at SAP 
+SAP ABAP Consultant at SAP  
 October 2004 to May 2005, Consultant, SAP ABAP
 
 <h3>Certifications</h3>
