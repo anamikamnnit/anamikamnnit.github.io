@@ -14,7 +14,7 @@ Bachelor of Engineering (Information Technology) from Motilal Nehru National Ins
 2000 - 2004;
 
 <h3>Work Experience</h3>
-Program Manager at Vodafone Technology Centre (VSSI) 
+Program Manager at Vodafone Technology Centre (VSSI)
 November 2018 to current, Program & Product Management, User Experience & SAP; Pune – India
 
 Lead SAP Consultant at Vodafone Technology Centre (VSSI)
