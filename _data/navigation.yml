@@ -2,12 +2,12 @@
 main:
   - title: "Knowing who am I"
     url: /about/
-  - title: "Resume"
-    url: /resume/
-  - title: "Blog"
-    url: /blog/
-  - title: "Case studies"
-    url: /case-studies/
+  - title: "Experience"
+    url: /experience/
+  #- title: "Blog"
+   # url: /blog/
+  #- title: "Case studies"
+   # url: /case-studies/
   #- title: "Blog"
   #  url: /collection-archive/
   - title: "Contact"
