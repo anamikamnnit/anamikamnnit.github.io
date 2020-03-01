@@ -14,26 +14,26 @@ Bachelor of Engineering (Information Technology) from Motilal Nehru National Ins
 2000 - 2004;
 
 <h3>Work Experience</h3>
-Lead Product Strategist at Vodafone Technology Centre (VSSI), Designation – Manager  
-November 2018 to current, Product Management, User Journey Mapping, Competitive Analysis; Pune – India
+Program Manager at Vodafone Technology Centre (VSSI) 
+November 2018 to current, Program & Product Management, User Experience & SAP; Pune – India
 
-Sr. Product Strategist at Vodafone Technology Centre (VSSI), Designation – Deputy Manager  
-January 2018 to October 2018, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
+Lead SAP Consultant at Vodafone Technology Centre (VSSI)
+May 2014 to October 2018, Product Management, SAP Sales & Distribution; Pune – India 
 
-Product Strategist at Vodafone Technology Centre (VSSI), Designation – Assistant Manager  
-November 2015 to December 2017, Product Management, Research & User Experience Analysis; Pune – India 
+Senior SAP Consultant at Tech Mahindra
+January 2010 to April 2013, Project Management, SAP Sales & Distribution 
 
-Founder at Zipplis  
-November 2015 to February 2017, Product Management & Strategy, Experience Design 
+SAP Consultant at Philips
+April 2007 to April 2013, Consultant, SAP Sales & Distribution; Eindhoven – Netherlands
 
-Product Owner at Cognizant Technology Solutions, Designation – Associate (Projects)  
-March 2015 to October 2015, Product & Experience Strategy & Consulting; Pune – India 
+SAP SD Consultant at Uniliver
+February 2006 to April 2007, Consultant, SAP Sales & Distribution 
 
-Product Manager at Ansh Systems Pvt. Ltd. (EE B.V.), Designation – Business Analyst  
-November 2013 to March 2015, Product Management Capability; Pune – India 
+SAP ABAP Consultant at Aquatec Water Treatment, Inc.
+May 2005 to February 2006, Consultant, SAP ABAP
 
-Business Analyst at Cybage Software, Designation – Software Engineer  
-February 2011 to October 2013, Consulting & Development of Products & Applications; Pune – India 
+SAP ABAP Consultant at SAP
+October 2004 to May 2005, Consultant, SAP ABAP
 
 <h3>Certifications</h3>
 Certified - Design Kit : Prototyping  
@@ -41,4 +41,3 @@ from IDEO, United States
 
 SAP Certified Application Associate- Sales and Distribution  
 from SAP Global Certifications, Germany
-
