@@ -20,9 +20,9 @@ title                    : "Anamika Shukla"
 title_separator          : "-"
 name                     : "Anamika Shukla"
 description              : "My website."
-url                      : #"https://prateekbhagdev.com"
+url                      : "https://anamikashukla.com"
 baseurl                  : #"/home"
-repository               : "anamikamnnit/iamanamika.github.io"
+repository               : #"anamikamnnit.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
