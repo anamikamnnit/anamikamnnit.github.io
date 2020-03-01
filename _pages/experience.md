@@ -5,25 +5,13 @@ author_profile: true
 classes: wide
 ---
 
-<i class="fas fa-cloud-download-alt fa-sm"></i>&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/0Bxv-W3aFgWEDWnozYjItR2w5YTA/view?usp=sharing" title="Download resume" style="text-decoration:none; color:#2DC14F" target="_blank">Download resume</a>
+<!-- <i class="fas fa-cloud-download-alt fa-sm"></i>&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/0Bxv-W3aFgWEDWnozYjItR2w5YTA/view?usp=sharing" title="Download resume" style="text-decoration:none; color:#2DC14F" target="_blank">Download resume</a> -->
 
 Program & Product Management
 
 <h3>Education</h3>
-Post Graduate Diploma in Information Technology Management from Symbiosis International University  
-2013; Symbiosis Centre for Management & Human Resource Development 
-
-Post Graduate Diploma in Advanced Computing from Centre for Development of Advanced Computing (C-DAC)  
-2011; Institute of Emerging Technologies 
-
-Bachelor of Engineering (Computer Science & Engg.) from Rajiv Gandhi Technological University (RGPV)  
-2010; Radharaman Institute of Technology & Science 
-
-H.S.C. (PCM) from Madhya Pradesh Board  
-2006; R.H.S.S. Shahdol 
-
-S.S.C. from Madhya Pradesh Board  
-2004; G.S.C.S. Shahdol 
+Bachelor of Engineering (Information Technology) from Motilal Nehru National Institute of Technology (MNNIT)  
+2000 - 2004;
 
 <h3>Work Experience</h3>
 Lead Product Strategist at Vodafone Technology Centre (VSSI), Designation – Manager  
@@ -48,25 +36,9 @@ Business Analyst at Cybage Software, Designation – Software Engineer
 February 2011 to October 2013, Consulting & Development of Products & Applications; Pune – India 
 
 <h3>Certifications</h3>
-Certified Product Manager (CPM)  
-from Association of International Product Marketing & Management, United States 
+Certified - Design Kit : Prototyping  
+from IDEO, United States 
 
-Certified Scrum Product Owner (CSPO)  
-from Scrum Alliance, United States 
+SAP Certified Application Associate- Sales and Distribution  
+from SAP Global Certifications, Germany
 
-Certified Usability Analyst (CUA)  
-from Human Factors International, United States 
-
-Certified ScrumMaster (CSM)  
-from Scrum Alliance, United States 
-
-Certified Payment-card Industry Security Implementer (CPISI)  
-PCI DSS from SISA, United States 
-
-<h3>Extra-curricular & Personality Traits</h3>
-Mentored new team members & made them understand different tools.  
-Managed many cultural events at college level and in Cybage, ASPL & Vodafone.  
-Possess better interpersonal & communication skills.  
-Having Quick and Good Learning Ability.  
-Enthusiastic about working over future technologies.  
-Bronze Medalist in Annual State Championships for Table Tennis for 3 consecutive years. 
