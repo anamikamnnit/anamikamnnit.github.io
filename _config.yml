@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prateek Bhagdev"
+title                    : "Anamika Shukla"
 title_separator          : "-"
-name                     : "Prateek Bhagdev"
+name                     : "Anamika Shukla"
 description              : "My website."
-url                      : "https://prateekbhagdev.com"
+url                      : #"https://prateekbhagdev.com"
 baseurl                  : #"/home"
-repository               : #"prateekbhagdev/prateekbhagdev.github.io"
+repository               : "anamikamnnit/iamanamika.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
