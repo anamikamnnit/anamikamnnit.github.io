@@ -16,7 +16,7 @@ from Motilal Nehru National Institute of Technology (MNNIT)
 
 <h3>Work Experience</h3>
 Program Manager at Vodafone Technology Centre (VSSI)  
-November 2018 to current, Program & Product Management, User Experience & SAP; Pune – India
+November 2018 to Current, Program & Product Management, User Experience & SAP; Pune – India
 
 Lead SAP Consultant at Vodafone Technology Centre (VSSI)  
 May 2014 to October 2018, Product Management, SAP Sales & Distribution; Pune – India 
