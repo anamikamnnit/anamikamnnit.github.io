@@ -10,7 +10,8 @@ classes: wide
 Program & Product Management
 
 <h3>Education</h3>
-Bachelor of Engineering (Information Technology) from Motilal Nehru National Institute of Technology (MNNIT)  
+Bachelor of Engineering (Information Technology)  
+from Motilal Nehru National Institute of Technology (MNNIT)  
 2000 - 2004;
 
 <h3>Work Experience</h3>
