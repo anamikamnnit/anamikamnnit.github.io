@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact"
 header:
-  image: /assets/pb_HDR.jpg
+  image: /assets/AS_HDR.jpg
   caption: "Christmas celebrations"
 author_profile: false
 ---
