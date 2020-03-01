@@ -12,4 +12,4 @@ I help running business units with emphasis on products, design & technology. I 
 
 I love watching movies profoundly :video:
 
-Bragging rights: Mother to two super cute boys. N, I’ve made ice-creams out of Water Only, and I’m a pretty good cook :smile:
+Bragging rights: Mother to 2 super cute boys. Netherlands fanatic. Crazy Icecream lover. and I’m a good cook :smile:
